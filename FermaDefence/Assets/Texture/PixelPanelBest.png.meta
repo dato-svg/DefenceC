@@ -1,0 +1,5006 @@
+fileFormatVersion: 2
+guid: b602ef01e6406de438cfa43d11ade2e6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PixelPanelBest_0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 410
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7eb85bec892d2f44929d0e83d5b1b75
+      internalID: 484231769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 474
+        width: 88
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c15e8c3c2c05ec44b1a1f249dfbefdf
+      internalID: -1502912167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_2
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 478
+        width: 90
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafd502ccd460ef45893d286eb69d77c
+      internalID: -1870558336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_3
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 454
+        width: 60
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8982048bd0078c4ea551306d46a8502
+      internalID: -570450733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_4
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 454
+        width: 92
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b765514a4e4694f82eb01ca6dd04c8
+      internalID: 751611313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_5
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 444
+        width: 84
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a78a16a92bcf94297811d026e83f09
+      internalID: -221253212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_6
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 446
+        width: 104
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d9b784b30166c49b42bb307ba479be
+      internalID: 1157925935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_7
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 420
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7b52a55dccbbb4f973a2b8b5d6cdda
+      internalID: 223885353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_8
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 408
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b465426791cb42449f0f7821316a8ac
+      internalID: 1657952060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_9
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 408
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f3bd73f20b9364bb65cec5bce1f666
+      internalID: -1303153722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_10
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 408
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312ce0a7c417507449104e1ef1f6e0c3
+      internalID: -34858128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_11
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 418
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f787a2c5bf7924cac91c58e1cc2667
+      internalID: -1980495686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_12
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 418
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f4823f1d90bd54cb1a7695e774ff70
+      internalID: -2044125864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_13
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 420
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d229b3b8ec5b52f4890888a2f5f0eaef
+      internalID: -1242063688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_14
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 414
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f91c20edc820a34da6e0f460e42a163
+      internalID: -144753599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_15
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 414
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd480b0597f91654a95cc00e0ec09259
+      internalID: -427435708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_16
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 412
+        width: 60
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16efc85acab06e9449fa0e56ee23bce9
+      internalID: -802805909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_17
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 412
+        width: 92
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01999a19c4272d04a830473459cca856
+      internalID: 991806907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_18
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 366
+        width: 92
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148957464aca84f438b852aa3c3a6bce
+      internalID: 355789213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_19
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 388
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025e083c83ad16f40ae4e376b52d6722
+      internalID: -1277408157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_20
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 388
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330d71a61d7775247b590ac6928830de
+      internalID: 531692748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_21
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 388
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8572dff35d7ae7646b2f5937eca23083
+      internalID: 839835581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_22
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 388
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffffa4f0d28d9bd44b23478e7713864f
+      internalID: 661268669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_23
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 388
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b78da19838153e479c7f6d0d23da8f4
+      internalID: 858666526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_24
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 388
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68e2a99b6a86a94d9436f1dc3d6ec45
+      internalID: 1123078669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_25
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 388
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e4bd5c74daa6f4598577d694d769a8
+      internalID: 1146182415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_26
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 388
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cbebed87c75f4b4faa66b40719435de
+      internalID: 1224294070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_27
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 388
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08369229974096944a32f6d4894a3fc1
+      internalID: 251324565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_28
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 388
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74ce62d2a1f8214a8a04c724b6168ca
+      internalID: 900831442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_29
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 388
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1168921b35b65aa40a55b12cd2eb2b49
+      internalID: 1660635443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_30
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 388
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8506c5af2a39cbf4dbb145e9a5a15564
+      internalID: -1020064967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_31
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 388
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6c74a05cb1368419b945df87d11a39
+      internalID: 1456922423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_32
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 388
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab80c70a9fa130447b42388ce3c3a7ab
+      internalID: 1012976614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_33
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 388
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582f1ddca894a724b96bf4489be42515
+      internalID: -880893443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_34
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 390
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948a5cf619537e646b70aeabb40af03c
+      internalID: 977614641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_35
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 390
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347fe26615ec9d74e8bfcae9e9cf4f63
+      internalID: -386288274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_36
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 390
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d6f1d9c82bfb64eb6fe1d5ba764182
+      internalID: 773761518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_37
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 390
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9aad0e664e10e4884184cf1cf0b053
+      internalID: 1249533232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_38
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 388
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31c883aab8173e4b94fcc1c017cfca5
+      internalID: -1536689401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_39
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 388
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be90f6a2a27b5940af3a8e054aa0b0e
+      internalID: 1198163119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_40
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 388
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d477c02a6f6c744a438970360bf9f0
+      internalID: -204267121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_41
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 388
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4943a294462cea4449848979dc083b22
+      internalID: 992900265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_42
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 362
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd3ccbe280774b4493bffc6f4b56d27
+      internalID: 2105245981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_43
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 362
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9131253b94c52724289c3f8530129dfc
+      internalID: -577718011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_44
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 362
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e160a4b7be0b55a489514be4e7e4f77e
+      internalID: 1499201187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_45
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 362
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a177286d31de740a65947b15e5bc39
+      internalID: 1778518741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_46
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 362
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2622b4d162ba7468ed550bb175c894
+      internalID: 1374559478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_47
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 362
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e56846869ee8348b38f108a5f38746
+      internalID: 427151534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_48
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 362
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb5fd22b3fd0434796b2e632d666a6c
+      internalID: -113813322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_49
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 362
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4101d3f8f5cb58746a10ab478e1c5219
+      internalID: -1797595635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_50
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 366
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23e323f86cbafd4e8153ae9e7f77346
+      internalID: -1550405726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_51
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 366
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3229b97a6aef7468e57dabc5edc17e
+      internalID: 82212794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_52
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 366
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c6a83b4d8a36548a044f96c3cc34dd
+      internalID: -1604891248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_53
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 366
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef19544207a3f84db1a099b31836c24
+      internalID: 1743551072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_54
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 366
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96e3233fc3fc5a418a5190da2822b0c
+      internalID: 1208968759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_55
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 366
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f443c5344026be4a82ac615972f9bdf
+      internalID: -142231998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_56
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 366
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b84ae2cc1cc20438c1740931934a3c
+      internalID: 1286884563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_57
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 366
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6730e56d660dd5c459f4b5da74d7a602
+      internalID: -1889035890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_58
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 366
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67f514ae73cb72458632cae476e511d
+      internalID: 335700162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_59
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 366
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4f7b41d53de104e8b52799265dc916
+      internalID: 1297880815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_60
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 366
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb7cdc58ebbd7649840dcd30bbe0e8a
+      internalID: 1106753627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_61
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 366
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78abd0fe91417f04ca6c2a1a5cd218ba
+      internalID: -612072005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_62
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 366
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8949ff19bcb7dae4cbe30a6181831e90
+      internalID: 939158647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_63
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 366
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37f0fc10ca7cbe41b22cfc23dd4a1a6
+      internalID: 980699721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_64
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 366
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d63cffe8a2265f4d8c7a98a1f7407b2
+      internalID: -774170883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_65
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 366
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763a1f21dd5ebc043bdd4c459e3a1609
+      internalID: -521959280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_66
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 366
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716fe1f81ef9b004f9444de0a8bd7b89
+      internalID: -311007309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_67
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 286
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0537f064b4ce784459db8f5091364048
+      internalID: 759778331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_68
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 222
+        width: 88
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79498dc33dc9e8479f4d8edc4e0bd75
+      internalID: 1399236034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_69
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 342
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64d73688289c554c9c1247cdc58b1d2
+      internalID: -260041194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_70
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 342
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e75e8699ab01c42b080ee7bb27a152
+      internalID: 791698036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_71
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 342
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91191552c03018647a2219076154b7ff
+      internalID: 2084235772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_72
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 342
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6769178f47425a844aaff0f935058e1e
+      internalID: 2000362813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_73
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 342
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a591229d972b3df4591f2da219057a57
+      internalID: 2080603683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_74
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 342
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dbc54310e99fdf42bdd7fdab6ed8ff0
+      internalID: 1808545308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_75
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 342
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffcb05510faa0a47b9494295d2227b0
+      internalID: -1109914140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_76
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 342
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d77a2466f16b24b99d0d2201589707
+      internalID: 717432331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_77
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 342
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04eecafb0a452fb4abb217bbe85f766c
+      internalID: 559964316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_78
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 342
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5a195bf9286384a8a65c0aa8cf9123
+      internalID: 720019876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_79
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 342
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736edbef013e2a9438ff51b23e3df4d6
+      internalID: 1137248271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_80
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 346
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e779f8754be0d84e9f5d3aad6995327
+      internalID: 2128219251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_81
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 342
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ead16672868bfa47b74d416ffa90f1a
+      internalID: -1284410239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_82
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 342
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9f02a27111f954fad4041c4274b18b
+      internalID: -418534686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_83
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 342
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e40a811bac628d438c5c2460050f181
+      internalID: 1084863578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_84
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 342
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8960b08417ce6254bba7b7892bdc54e4
+      internalID: 1140691460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_85
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 342
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4155cf72b257546be2cd5b4ac6a0da
+      internalID: -649084679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_86
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 342
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed00344105b6dc4191f53140274773e
+      internalID: -645772121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_87
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 342
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58a7ca54c129544182e5a7f2d0675de
+      internalID: -182170256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_88
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 342
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51808f65431d42b4394d69aeaa2af043
+      internalID: 1253302880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_89
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 342
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c29f5c91852ab46a64c76c150ad4cb
+      internalID: -2081648666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_90
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 318
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87fffa423ae330e4788dfbea79cd331d
+      internalID: 2004297359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_91
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 318
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37bfc7a36d58ce4ebd4d8d3b5b33a9e
+      internalID: 775473000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_92
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 318
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65425593c43f1b40a1ebe476a36e842
+      internalID: -1897408101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_93
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 318
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2408642a9212d4ca1c90d48be60a51
+      internalID: -188357114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_94
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 318
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8286468c95e44a84b898ba101ab6da41
+      internalID: -1833880129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_95
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 318
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace8f8b69116e7f4eab1537cc5837703
+      internalID: -467029471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_96
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 318
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c861e5ba1c46d47b14fa360e6b4941
+      internalID: -1253325520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_97
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 326
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee41d048f1659ca4b8484899ddd387a4
+      internalID: 968191675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_98
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 318
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406abacb0b7c8724699e1b280a667499
+      internalID: -815902694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_99
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 318
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3b1fdb960a6294898fed8a6b957986
+      internalID: 694159976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_100
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 318
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd33890d89c682d4b99d2414e3f8a9e3
+      internalID: -917232902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_101
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 318
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7373cfadbcf73724fb3fa8f276e7f9a1
+      internalID: -1664762412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_102
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 318
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a665a1d7a269564392148e859a5a577
+      internalID: -337685822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_103
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 318
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b850e44b9fa0c8c46b882165248e40cf
+      internalID: 674439146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_104
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 318
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9368c4be31ea64da6dbe71b5c2b8ab
+      internalID: -441191290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_105
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 318
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b715dfbfda131488a08adee0e10821
+      internalID: -480373489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_106
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 318
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696c3211654d4084bb12386355220133
+      internalID: -1737678174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_107
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 294
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca70b796f39fe64cbfb54af08c8b64c
+      internalID: -473581563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_108
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 318
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1278e7ed3a22b304fbccd8356d400b6e
+      internalID: -384492381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_109
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 320
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8603da51d55c1be4ebfd49add187f207
+      internalID: -35930114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_110
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 318
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b4ba329adb2394a8eb66b16fed88c6
+      internalID: 1817937724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_111
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 318
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98565516511d97748979c26b58aebac4
+      internalID: -542292067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_112
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 318
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d452eff3700c5041a275f7a6421aea6
+      internalID: 55382162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_113
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 294
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52d3075bacd14b4fad7321a3ce1e040
+      internalID: 126395431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_114
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 300
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf389557718522f49ad15eb3c7b831cf
+      internalID: 90089425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_115
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 294
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30be9196820f2e24fa8cf6950ddfe759
+      internalID: -137888084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_116
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 294
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986e056804606cb4b988dad3b72ca4aa
+      internalID: 1306066905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_117
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 294
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5852b4d7a09c554a82d9382a48cb99c
+      internalID: 2046258955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_118
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 294
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ab1b2b131271242b16ce8652348a11
+      internalID: 2114331868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_119
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 294
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4df6924d67d9a842ad13203ad29293c
+      internalID: -1367537399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_120
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 294
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a632aab8434512b48853afb639d793e4
+      internalID: 1235192141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_121
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 294
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: facd6ee6a5df8374fb2140f263ec8da2
+      internalID: 216856612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_122
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 294
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5619b0ae0dccf10429e6287291ce027e
+      internalID: -837015174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_123
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 294
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64fa8b5ac0f832740845e92d6bb99bb7
+      internalID: -1616381212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_124
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 294
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8e12274eac37e43809030513a800c5
+      internalID: -1683977186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_125
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 294
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b01bf7e18b7d8d489d7f07e1b3b71ad
+      internalID: 268603464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_126
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 302
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b979dfc3d1dc05a4caad46cf4b1cfda5
+      internalID: -834321718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_127
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 294
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbe55e5a17dfb24da380470893ab1be
+      internalID: 538018365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_128
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 294
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d74566e80c1864693624a87124ac3e
+      internalID: 236394234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_129
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 294
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b236337f49900f045a53ade5c1e42a24
+      internalID: -1684347378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_130
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 294
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d520a4f8d6b23b24c9d392b682ac8d02
+      internalID: 677417680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_131
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 294
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: befab72a2761c8d4cbe25c2028e9c7cb
+      internalID: -2026086269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_132
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 294
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84e8bcbadac4034fad22fc1595d6cf1
+      internalID: 641325559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_133
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 294
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f933a6f451c09974399d379c4c767c42
+      internalID: -1200638211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_134
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 258
+        width: 60
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aea0133240e7e44e9b35c3096216506
+      internalID: 181334714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_135
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 280
+        width: 60
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2de5a82847c5884c9a8ea3d1439d97b
+      internalID: -1740670534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_136
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 258
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912df26ad6cd3a44ca65faa5a3099e4e
+      internalID: -565238290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_137
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 272
+        width: 60
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955c82d1cd720434a941f32bf9a8e874
+      internalID: -1591909748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_138
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 236
+        width: 92
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0336c8e97b80bd94a8a19a9091bff5dc
+      internalID: 1957501508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_139
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 212
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4303a7b7e87318c47a504922430c6e01
+      internalID: 94946165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_140
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 264
+        width: 60
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a15ad05beaa2e4ba317c87eaeefc1c
+      internalID: 2054903219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_141
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 256
+        width: 60
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98522a66861d28449a639fbb510771be
+      internalID: -1552119291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_142
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 226
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19835e664b24b243925d012fd4fcb90
+      internalID: -1128652411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_143
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 228
+        width: 88
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c870a1556bfbe6943868cbdae4f4d7a6
+      internalID: 999148643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_144
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 226
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f34b0bfa76402d449698de8b174c96c
+      internalID: 838209851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_145
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 138
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4bb2e5329de0141b6e34487b1af1ee
+      internalID: -1156480825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_146
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 168
+        width: 154
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0f136ac22c1bf4ba90395071c4ff4c
+      internalID: -910383373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_147
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 194
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d49db430c36564ba2b709290c5742c
+      internalID: -1605364532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_148
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 194
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7571f5fd147ecd647b75a01b660f9af5
+      internalID: -788997385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_149
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 128
+        width: 160
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8bfbd459e05444ba6b1273a7ca12b1
+      internalID: -163675451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_150
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 162
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e58b5d6e9f942c45ab02a9c5aa7cac3
+      internalID: -749928761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_151
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 162
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc47f1fd60390e458e8279872176f3a
+      internalID: -1714388948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_152
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 132
+        width: 116
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c764d9082ce7742abe44846c2ff64a
+      internalID: -1055495122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_153
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 130
+        width: 92
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620bc5ca360fa4040a904a509827abb5
+      internalID: -567124868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_154
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 58
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd9f14a64b912a489b0a453c72b044b
+      internalID: 247892916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_155
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 60
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c14aba96a89324cb5b4cd267ac89b0
+      internalID: -1965196691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_156
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 60
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4db6603eb59834d837dce96fed1282
+      internalID: -1073964731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_157
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 92
+        width: 60
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644a41a85f36a444dbca075cf585856c
+      internalID: -1345798075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_158
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 92
+        width: 92
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5783a881e33bf45a9a085091c1fa85
+      internalID: -2090906840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_159
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 66
+        width: 128
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a8f664431864f408206958b4b15c49
+      internalID: 2142749550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_160
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 60
+        width: 60
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46eb0ab0ce626c43a6614356ed8e6b5
+      internalID: 1368702168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_161
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 60
+        width: 92
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade200da499479449bd121624264dcaf
+      internalID: -1787223121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_162
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 50
+        width: 32
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465c0a239e514c746a639fa6fef74dd3
+      internalID: -43145828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_163
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 16
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aed9a63e21990148b37b8795d15ec1a
+      internalID: 103994123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_164
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 36
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8190424a514f74982462001c00ff93
+      internalID: 820363515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_165
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 36
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ffbf9b9cd1c59443987886e9656ebb1
+      internalID: 1966171525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_166
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 36
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fd86809f48c1345b959ed4f94d9081
+      internalID: 1467141137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_167
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 36
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a45cc6b48fffc742ba690686afd7049
+      internalID: -1313512010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_168
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 36
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4107aec92295a4da9792a1d97afc93
+      internalID: 59584443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_169
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 36
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6a0f72df8682141a95349867a5a0a8
+      internalID: -1941635694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_170
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 36
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969eb432c872df84b8d728ee9289a224
+      internalID: 461639455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_171
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 36
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc32aed2e54e11241829edaa698ff4ec
+      internalID: 589552590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_172
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 36
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d326ad5df735102499199fb748eef4d0
+      internalID: -889642545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_173
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 36
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e9b161221493b41acb0016cc3631ba
+      internalID: 538377162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_174
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 36
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c55c12c57c3e1848adbba1eb15b8100
+      internalID: -2045123501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_175
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 36
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be2f5c15ee59db4fbd8e44d0a488c55
+      internalID: 1652034766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_176
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 36
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8059fceb417c1504b81d1029f6d7ea66
+      internalID: -21256460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_177
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 36
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877bc9220fd8c504780b03f6671171b7
+      internalID: -802849547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_178
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 36
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e30fc854ab3ac488550046c91b2b40
+      internalID: 1762084442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_179
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 36
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155d9e7e1e5aaf648974d34fd07cb431
+      internalID: -573515831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_180
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 36
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764b52e568548f846b5ec226aa43138e
+      internalID: 45271369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_181
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 36
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae52d0f0f392434591745373f1db05f
+      internalID: -649050615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_182
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 36
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d37d0c31cc373241a7a625328e033c1
+      internalID: -1823048588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_183
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 36
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae597adf4d0d0d43ae2182d108691c5
+      internalID: 1290102618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_184
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 36
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0b890c9aebd344e8e38c0a1f59cbe1
+      internalID: 1271935471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_185
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98f491d0db989f4a9f85515a3344b73
+      internalID: -1835374017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_186
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 36
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35eb2b7d7f67df48b6d31ac15c3e4b5
+      internalID: 872432493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_187
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 36
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3a9a40eed4a7c499f4c46f19656fc1
+      internalID: -489150633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_188
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 36
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95c9433f740e444085c7d511314f7eb
+      internalID: 1303235143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_189
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 36
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e66fad1f6dd5e4b9dbdae434ad099d
+      internalID: 102611487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_190
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 36
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c477d2bbe3521743a8588197ba3e2f6
+      internalID: 2033063979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_191
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 36
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284411df122dd8c42a3ce56e3d3c4a4c
+      internalID: 912173290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_192
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f86a0b808eb7f6499537b1d9df0f2df
+      internalID: -1607626198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_193
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 36
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0ce19c5d9aca343829316894435460
+      internalID: 406519022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_194
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 28
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20519bd8838c3e54b913bc9277cb5026
+      internalID: -1723143078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_195
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 4
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54572bbbc182aa4e8c9c5b1eeb181a9
+      internalID: 76791632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_196
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 4
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988593e771434804ba6c71719b8ab40b
+      internalID: 1308228132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_197
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 4
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a90f1989b349ee4c88ce0d8edd57db5
+      internalID: 1148760494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_198
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 4
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e81b6e0a68b654885c80e0e186318e
+      internalID: 1554784853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_199
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 4
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7be4c591c647c488ae34a161b97112
+      internalID: -670693908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_200
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 4
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb6254d80f3a844b9ca5ccf41d271e2
+      internalID: -1913282023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_201
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 4
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25fad6f5cb26f01479c06851d9933032
+      internalID: 2029787240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_202
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 4
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129894201fdf7f94a8584afdc871892f
+      internalID: -191307806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_203
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 4
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c41e9c04247ae54792d9de7c7f8f1d1
+      internalID: -1990048307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_204
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 4
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f20ec6f685c9344699e8d66f53f4da0
+      internalID: 1611633551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_205
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 4
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f41e711bbad9c644987c0b1f21da05f
+      internalID: 1213598525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_206
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 4
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ad10b8bf381f340bcc3b152869b1b2
+      internalID: -2013541778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_207
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 4
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc36b205fdd1fcd4b9ede3c21d1ddfe6
+      internalID: -1638639952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_208
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 4
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e95200d2d8222c43abacb82bbbbbd3a
+      internalID: 1921277731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_209
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 4
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d056b4904667f314e82049b533ac2e0f
+      internalID: -781821944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_210
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 4
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9cb4c51d427eb4d8507b48e41d7f0b
+      internalID: -992352078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_211
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 4
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f84f12d7d28d9a49b20950d5535ab1b
+      internalID: 1362788994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_212
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 4
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbcb759dda5b7704fbbdf59dc4a24855
+      internalID: -1222540762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_213
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 4
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8359d439646b9224b90b3fa96c56a3ce
+      internalID: -688174913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_214
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 4
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61da6dc568f3f540b3ff062e1b4838b
+      internalID: 285792276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_215
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 4
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbba3669f52dfa641999a81cd108a74c
+      internalID: 1547608416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_216
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 4
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18508e9a8f350d244a411877910c0eec
+      internalID: -1737029432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_217
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 4
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139b9d65a676f2b4a937fc1f7dd25f4b
+      internalID: 2121444778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_218
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 4
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf2fedb54ad4bb41baa01d5031253fe
+      internalID: 1719997058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelPanelBest_219
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 4
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3bc37f9d617ff4eaff33d61b6fc0e5
+      internalID: 135173138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PixelPanelBest_0: 484231769
+      PixelPanelBest_1: -1502912167
+      PixelPanelBest_10: -34858128
+      PixelPanelBest_100: -917232902
+      PixelPanelBest_101: -1664762412
+      PixelPanelBest_102: -337685822
+      PixelPanelBest_103: 674439146
+      PixelPanelBest_104: -441191290
+      PixelPanelBest_105: -480373489
+      PixelPanelBest_106: -1737678174
+      PixelPanelBest_107: -473581563
+      PixelPanelBest_108: -384492381
+      PixelPanelBest_109: -35930114
+      PixelPanelBest_11: -1980495686
+      PixelPanelBest_110: 1817937724
+      PixelPanelBest_111: -542292067
+      PixelPanelBest_112: 55382162
+      PixelPanelBest_113: 126395431
+      PixelPanelBest_114: 90089425
+      PixelPanelBest_115: -137888084
+      PixelPanelBest_116: 1306066905
+      PixelPanelBest_117: 2046258955
+      PixelPanelBest_118: 2114331868
+      PixelPanelBest_119: -1367537399
+      PixelPanelBest_12: -2044125864
+      PixelPanelBest_120: 1235192141
+      PixelPanelBest_121: 216856612
+      PixelPanelBest_122: -837015174
+      PixelPanelBest_123: -1616381212
+      PixelPanelBest_124: -1683977186
+      PixelPanelBest_125: 268603464
+      PixelPanelBest_126: -834321718
+      PixelPanelBest_127: 538018365
+      PixelPanelBest_128: 236394234
+      PixelPanelBest_129: -1684347378
+      PixelPanelBest_13: -1242063688
+      PixelPanelBest_130: 677417680
+      PixelPanelBest_131: -2026086269
+      PixelPanelBest_132: 641325559
+      PixelPanelBest_133: -1200638211
+      PixelPanelBest_134: 181334714
+      PixelPanelBest_135: -1740670534
+      PixelPanelBest_136: -565238290
+      PixelPanelBest_137: -1591909748
+      PixelPanelBest_138: 1957501508
+      PixelPanelBest_139: 94946165
+      PixelPanelBest_14: -144753599
+      PixelPanelBest_140: 2054903219
+      PixelPanelBest_141: -1552119291
+      PixelPanelBest_142: -1128652411
+      PixelPanelBest_143: 999148643
+      PixelPanelBest_144: 838209851
+      PixelPanelBest_145: -1156480825
+      PixelPanelBest_146: -910383373
+      PixelPanelBest_147: -1605364532
+      PixelPanelBest_148: -788997385
+      PixelPanelBest_149: -163675451
+      PixelPanelBest_15: -427435708
+      PixelPanelBest_150: -749928761
+      PixelPanelBest_151: -1714388948
+      PixelPanelBest_152: -1055495122
+      PixelPanelBest_153: -567124868
+      PixelPanelBest_154: 247892916
+      PixelPanelBest_155: -1965196691
+      PixelPanelBest_156: -1073964731
+      PixelPanelBest_157: -1345798075
+      PixelPanelBest_158: -2090906840
+      PixelPanelBest_159: 2142749550
+      PixelPanelBest_16: -802805909
+      PixelPanelBest_160: 1368702168
+      PixelPanelBest_161: -1787223121
+      PixelPanelBest_162: -43145828
+      PixelPanelBest_163: 103994123
+      PixelPanelBest_164: 820363515
+      PixelPanelBest_165: 1966171525
+      PixelPanelBest_166: 1467141137
+      PixelPanelBest_167: -1313512010
+      PixelPanelBest_168: 59584443
+      PixelPanelBest_169: -1941635694
+      PixelPanelBest_17: 991806907
+      PixelPanelBest_170: 461639455
+      PixelPanelBest_171: 589552590
+      PixelPanelBest_172: -889642545
+      PixelPanelBest_173: 538377162
+      PixelPanelBest_174: -2045123501
+      PixelPanelBest_175: 1652034766
+      PixelPanelBest_176: -21256460
+      PixelPanelBest_177: -802849547
+      PixelPanelBest_178: 1762084442
+      PixelPanelBest_179: -573515831
+      PixelPanelBest_18: 355789213
+      PixelPanelBest_180: 45271369
+      PixelPanelBest_181: -649050615
+      PixelPanelBest_182: -1823048588
+      PixelPanelBest_183: 1290102618
+      PixelPanelBest_184: 1271935471
+      PixelPanelBest_185: -1835374017
+      PixelPanelBest_186: 872432493
+      PixelPanelBest_187: -489150633
+      PixelPanelBest_188: 1303235143
+      PixelPanelBest_189: 102611487
+      PixelPanelBest_19: -1277408157
+      PixelPanelBest_190: 2033063979
+      PixelPanelBest_191: 912173290
+      PixelPanelBest_192: -1607626198
+      PixelPanelBest_193: 406519022
+      PixelPanelBest_194: -1723143078
+      PixelPanelBest_195: 76791632
+      PixelPanelBest_196: 1308228132
+      PixelPanelBest_197: 1148760494
+      PixelPanelBest_198: 1554784853
+      PixelPanelBest_199: -670693908
+      PixelPanelBest_2: -1870558336
+      PixelPanelBest_20: 531692748
+      PixelPanelBest_200: -1913282023
+      PixelPanelBest_201: 2029787240
+      PixelPanelBest_202: -191307806
+      PixelPanelBest_203: -1990048307
+      PixelPanelBest_204: 1611633551
+      PixelPanelBest_205: 1213598525
+      PixelPanelBest_206: -2013541778
+      PixelPanelBest_207: -1638639952
+      PixelPanelBest_208: 1921277731
+      PixelPanelBest_209: -781821944
+      PixelPanelBest_21: 839835581
+      PixelPanelBest_210: -992352078
+      PixelPanelBest_211: 1362788994
+      PixelPanelBest_212: -1222540762
+      PixelPanelBest_213: -688174913
+      PixelPanelBest_214: 285792276
+      PixelPanelBest_215: 1547608416
+      PixelPanelBest_216: -1737029432
+      PixelPanelBest_217: 2121444778
+      PixelPanelBest_218: 1719997058
+      PixelPanelBest_219: 135173138
+      PixelPanelBest_22: 661268669
+      PixelPanelBest_23: 858666526
+      PixelPanelBest_24: 1123078669
+      PixelPanelBest_25: 1146182415
+      PixelPanelBest_26: 1224294070
+      PixelPanelBest_27: 251324565
+      PixelPanelBest_28: 900831442
+      PixelPanelBest_29: 1660635443
+      PixelPanelBest_3: -570450733
+      PixelPanelBest_30: -1020064967
+      PixelPanelBest_31: 1456922423
+      PixelPanelBest_32: 1012976614
+      PixelPanelBest_33: -880893443
+      PixelPanelBest_34: 977614641
+      PixelPanelBest_35: -386288274
+      PixelPanelBest_36: 773761518
+      PixelPanelBest_37: 1249533232
+      PixelPanelBest_38: -1536689401
+      PixelPanelBest_39: 1198163119
+      PixelPanelBest_4: 751611313
+      PixelPanelBest_40: -204267121
+      PixelPanelBest_41: 992900265
+      PixelPanelBest_42: 2105245981
+      PixelPanelBest_43: -577718011
+      PixelPanelBest_44: 1499201187
+      PixelPanelBest_45: 1778518741
+      PixelPanelBest_46: 1374559478
+      PixelPanelBest_47: 427151534
+      PixelPanelBest_48: -113813322
+      PixelPanelBest_49: -1797595635
+      PixelPanelBest_5: -221253212
+      PixelPanelBest_50: -1550405726
+      PixelPanelBest_51: 82212794
+      PixelPanelBest_52: -1604891248
+      PixelPanelBest_53: 1743551072
+      PixelPanelBest_54: 1208968759
+      PixelPanelBest_55: -142231998
+      PixelPanelBest_56: 1286884563
+      PixelPanelBest_57: -1889035890
+      PixelPanelBest_58: 335700162
+      PixelPanelBest_59: 1297880815
+      PixelPanelBest_6: 1157925935
+      PixelPanelBest_60: 1106753627
+      PixelPanelBest_61: -612072005
+      PixelPanelBest_62: 939158647
+      PixelPanelBest_63: 980699721
+      PixelPanelBest_64: -774170883
+      PixelPanelBest_65: -521959280
+      PixelPanelBest_66: -311007309
+      PixelPanelBest_67: 759778331
+      PixelPanelBest_68: 1399236034
+      PixelPanelBest_69: -260041194
+      PixelPanelBest_7: 223885353
+      PixelPanelBest_70: 791698036
+      PixelPanelBest_71: 2084235772
+      PixelPanelBest_72: 2000362813
+      PixelPanelBest_73: 2080603683
+      PixelPanelBest_74: 1808545308
+      PixelPanelBest_75: -1109914140
+      PixelPanelBest_76: 717432331
+      PixelPanelBest_77: 559964316
+      PixelPanelBest_78: 720019876
+      PixelPanelBest_79: 1137248271
+      PixelPanelBest_8: 1657952060
+      PixelPanelBest_80: 2128219251
+      PixelPanelBest_81: -1284410239
+      PixelPanelBest_82: -418534686
+      PixelPanelBest_83: 1084863578
+      PixelPanelBest_84: 1140691460
+      PixelPanelBest_85: -649084679
+      PixelPanelBest_86: -645772121
+      PixelPanelBest_87: -182170256
+      PixelPanelBest_88: 1253302880
+      PixelPanelBest_89: -2081648666
+      PixelPanelBest_9: -1303153722
+      PixelPanelBest_90: 2004297359
+      PixelPanelBest_91: 775473000
+      PixelPanelBest_92: -1897408101
+      PixelPanelBest_93: -188357114
+      PixelPanelBest_94: -1833880129
+      PixelPanelBest_95: -467029471
+      PixelPanelBest_96: -1253325520
+      PixelPanelBest_97: 968191675
+      PixelPanelBest_98: -815902694
+      PixelPanelBest_99: 694159976
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

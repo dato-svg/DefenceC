@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="709fd586-d008-4853-a125-0ddf8a87f034" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TimerInterval.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../AppData/Local/JetBrains/Shared/vAny/DecompilerCache/decompiler/30ADF901-98BC-4C4B-8391-0C6FB1877998/b8/75838e59/RectTransform.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/PlayerUI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Turrets.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BackGroundMusicController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Bonus.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Bomb.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Controller/MoveEnemy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BarricadeUI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Component/LevelManagerComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/Drag.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerStats.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Component/DestroyComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Bullet.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Component/SpawnBonusComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SaveUpLevel.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Component/DestroyComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Controller/EnemyMoveMent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Controller/EnemyMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Controller/EnemyMove.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Component/GiveCoinComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TestInit.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TestAD.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TestRewAd.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Controller/MoveEnemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Component/Health.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TurrelSpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SpawnerEnemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/Drag.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/Drop.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Turrets.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Bonus.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Bomb.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BarricadeUI.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerStats.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/PlayerUI.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Barricade.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BackGroundMusicController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ArrowController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SaveUpLevel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TimerInterval.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Component/LevelManagerComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Bullet.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Controller/Chec/test.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Component/SpawnBonusComponent.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2f53MdEqVFUZARDTl57WkQSqF9A" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="709fd586-d008-4853-a125-0ddf8a87f034" name="Default Changelist" comment="" />
+      <created>1713077066881</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713077066881</updated>
+      <workItem from="1713077095360" duration="1992000" />
+      <workItem from="1713080019988" duration="591000" />
+      <workItem from="1713164014684" duration="4032000" />
+      <workItem from="1713172988827" duration="2668000" />
+      <workItem from="1713344334271" duration="5275000" />
+      <workItem from="1713359303254" duration="1969000" />
+      <workItem from="1713680574151" duration="3225000" />
+      <workItem from="1713771850975" duration="107000" />
+      <workItem from="1713774635893" duration="2146000" />
+      <workItem from="1713853532671" duration="6882000" />
+      <workItem from="1713938271224" duration="2972000" />
+      <workItem from="1713949687128" duration="3416000" />
+      <workItem from="1713960209295" duration="405000" />
+      <workItem from="1713960639325" duration="602000" />
+      <workItem from="1713976240282" duration="4000" />
+      <workItem from="1714199562569" duration="1442000" />
+      <workItem from="1714286878507" duration="7710000" />
+      <workItem from="1714472499449" duration="2770000" />
+      <workItem from="1714550187138" duration="3100000" />
+      <workItem from="1714556909524" duration="1023000" />
+      <workItem from="1714640027674" duration="8543000" />
+      <workItem from="1714896814162" duration="3361000" />
+      <workItem from="1714982767027" duration="705000" />
+      <workItem from="1715757739649" duration="385000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="769" y="221" key="RiderGenerateDialog" timestamp="1713077940612">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="769" y="221" key="RiderGenerateDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1713077940612" />
+  </component>
+</project>

@@ -1,0 +1,944 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\PRO_TEAM_C#\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\PRO_TEAM_C#\AppData\Local\JetBrains\Transient\Rider\v202\SolutionCaches\_FermaDefence.-1926119695.00" t="ExcludeRecursive" />
+    <e p="C:\Users\PRO_TEAM_C#\FermaDefence" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="02_GUI" t="Include">
+          <e p="GUI" t="Include">
+            <e p="GUI Kit Cartoon Military" t="Include">
+              <e p="01_PSD" t="Include" />
+              <e p="02_Sliced Elements" t="Include">
+                <e p="00_Button" t="Include" />
+                <e p="00_Common" t="Include" />
+                <e p="03_Item" t="Include" />
+                <e p="04_Setting" t="Include" />
+                <e p="05_Stage" t="Include" />
+                <e p="06_Store" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="Animation" t="Include">
+          <e p="BaricadeAnim" t="Include" />
+          <e p="BombAnim" t="Include" />
+        </e>
+        <e p="Audio" t="Include">
+          <e p="BackMusic" t="Include" />
+        </e>
+        <e p="BackPixed" t="Include">
+          <e p="free version (1)" t="Include">
+            <e p="free version" t="Include">
+              <e p="Read Me.txt" t="Include" />
+            </e>
+          </e>
+          <e p="Sprout Lands - Sprites - Basic pack" t="Include">
+            <e p="Sprout Lands - Sprites - Basic pack" t="Include">
+              <e p="Objects" t="Include" />
+              <e p="read_me.txt" t="Include" />
+              <e p="Sprout Lands color pallet" t="Include" />
+              <e p="Tilesets" t="Include" />
+            </e>
+          </e>
+          <e p="Woolly Lands" t="Include">
+            <e p="Woolly Lands" t="Include">
+              <e p="House" t="Include" />
+              <e p="LICENSE.txt" t="Include" />
+              <e p="Tileset" t="Include" />
+              <e p="Vegetetation" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Cartoon GUI 3" t="Include">
+          <e p="png" t="Include">
+            <e p="Buttons" t="Include">
+              <e p="Blank" t="Include" />
+              <e p="LevelButton" t="Include" />
+            </e>
+            <e p="Window &amp; Elements" t="Include">
+              <e p="HUD" t="Include" />
+              <e p="Icons" t="Include" />
+              <e p="Indicator" t="Include" />
+              <e p="Slider" t="Include" />
+              <e p="Window" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="FantasyMonsters" t="Include">
+          <e p="Animations" t="Include">
+            <e p="Bat" t="Include" />
+            <e p="Bear" t="Include" />
+            <e p="Boar" t="Include" />
+            <e p="BugQueen" t="Include" />
+            <e p="Bunny" t="Include" />
+            <e p="Caterpillar" t="Include" />
+            <e p="Chicken" t="Include" />
+            <e p="Cow" t="Include" />
+            <e p="Dragon" t="Include" />
+            <e p="Duck" t="Include" />
+            <e p="Feline" t="Include" />
+            <e p="FlyingWyvern" t="Include" />
+            <e p="Goat" t="Include" />
+            <e p="Horse" t="Include" />
+            <e p="Larva" t="Include" />
+            <e p="MeatBug" t="Include" />
+            <e p="Nightmare" t="Include" />
+            <e p="Ogre" t="Include" />
+            <e p="Pig" t="Include" />
+            <e p="PirateBoar" t="Include" />
+            <e p="Porcupine" t="Include" />
+            <e p="Pug" t="Include" />
+            <e p="Rat" t="Include" />
+            <e p="Rocks" t="Include" />
+            <e p="Rooster" t="Include" />
+            <e p="Scarab" t="Include" />
+            <e p="Scarecrow" t="Include" />
+            <e p="Trees" t="Include" />
+            <e p="Turkey" t="Include" />
+            <e p="Wasp" t="Include" />
+            <e p="Wolf" t="Include" />
+            <e p="WoodenBarrel" t="Include" />
+            <e p="Worm" t="Include" />
+          </e>
+          <e p="CaveMonsters" t="Include">
+            <e p="Monsters" t="Include">
+              <e p="Dogs" t="Include">
+                <e p="BlackBear" t="Include" />
+                <e p="BlackWolf" t="Include" />
+                <e p="Cerberus" t="Include" />
+                <e p="Nightmare" t="Include" />
+                <e p="Warg" t="Include" />
+              </e>
+              <e p="Insects" t="Include">
+                <e p="CaveCaterpillar" t="Include" />
+                <e p="Crawler" t="Include" />
+                <e p="PurpleScarab" t="Include" />
+                <e p="Scarab" t="Include" />
+                <e p="SlugQueen" t="Include" />
+              </e>
+              <e p="Pigs" t="Include">
+                <e p="BlackBoar" t="Include" />
+                <e p="MinerBoar" t="Include" />
+              </e>
+              <e p="Rats" t="Include">
+                <e p="Bat" t="Include" />
+                <e p="CaveRat" t="Include" />
+                <e p="CrystalLizard" t="Include" />
+                <e p="DreadEye" t="Include" />
+                <e p="EvilEye" t="Include" />
+                <e p="FlyingDemon" t="Include" />
+                <e p="Ghost" t="Include" />
+                <e p="MohawkBat" t="Include" />
+                <e p="Porcupine" t="Include" />
+                <e p="ShardLizard" t="Include" />
+              </e>
+              <e p="Rocks" t="Include">
+                <e p="Images" t="Include">
+                  <e p="Ores" t="Include" />
+                </e>
+                <e p="Materials" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Common" t="Include">
+            <e p="Backgrounds" t="Include" />
+            <e p="Fonts" t="Include" />
+            <e p="Props" t="Include" />
+          </e>
+          <e p="Felines" t="Include">
+            <e p="Monsters" t="Include">
+              <e p="Panther" t="Include" />
+            </e>
+          </e>
+          <e p="ForestMonsters" t="Include">
+            <e p="Monsters" t="Include">
+              <e p="Dogs" t="Include">
+                <e p="Bear" t="Include" />
+                <e p="Husky" t="Include" />
+                <e p="Watchdog" t="Include" />
+                <e p="WhiteWolf" t="Include" />
+                <e p="Wolf" t="Include" />
+                <e p="WolfHound" t="Include" />
+              </e>
+              <e p="Insects" t="Include">
+                <e p="BugQueen" t="Include" />
+                <e p="Caterpillar" t="Include" />
+                <e p="Larva" t="Include" />
+                <e p="MeatBug" t="Include" />
+                <e p="Wasp" t="Include" />
+              </e>
+              <e p="Pigs" t="Include">
+                <e p="Boar" t="Include" />
+                <e p="Hog" t="Include" />
+                <e p="PirateBoar" t="Include" />
+                <e p="PossessedBlackBoar" t="Include" />
+                <e p="RoyalBoar" t="Include" />
+              </e>
+              <e p="Rats" t="Include">
+                <e p="InfectedRat" t="Include" />
+                <e p="Rat" t="Include" />
+                <e p="RatKing" t="Include" />
+              </e>
+              <e p="Trees" t="Include">
+                <e p="Images" t="Include">
+                  <e p="Other" t="Include" />
+                </e>
+                <e p="Materials" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="GiantMonsters" t="Include">
+            <e p="Monsters" t="Include">
+              <e p="Golems" t="Include">
+                <e p="Golem" t="Include" />
+              </e>
+              <e p="Trolls" t="Include">
+                <e p="ButcherGradeA" t="Include" />
+                <e p="ButcherGradeB" t="Include" />
+                <e p="ButcherGradeC" t="Include" />
+                <e p="Cannibal" t="Include" />
+                <e p="Dreadnought" t="Include" />
+                <e p="Juggernaut" t="Include" />
+                <e p="Maneater" t="Include" />
+                <e p="Ogre" t="Include" />
+                <e p="Troll" t="Include" />
+                <e p="WinterOgre" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="InanimateMonsters" t="Include">
+            <e p="Monsters" t="Include">
+              <e p="Inanimate" t="Include">
+                <e p="Sack" t="Include" />
+                <e p="Scarecrow" t="Include" />
+                <e p="WoodenBarrel" t="Include" />
+                <e p="WoodenBox" t="Include" />
+                <e p="WoodenChest" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="PossessedMonsters" t="Include">
+            <e p="Monsters" t="Include">
+              <e p="PossessedBear" t="Include" />
+              <e p="PossessedRat" t="Include" />
+              <e p="PossessedWarg" t="Include" />
+              <e p="PossessedWatchdog" t="Include" />
+              <e p="PossessedWolf" t="Include" />
+            </e>
+          </e>
+          <e p="VillageAnimals" t="Include">
+            <e p="Monsters" t="Include">
+              <e p="Apes" t="Include">
+                <e p="Monkey" t="Include" />
+              </e>
+              <e p="Birds" t="Include">
+                <e p="AdvancedHen" t="Include" />
+                <e p="BullyRooster" t="Include" />
+                <e p="Chick" t="Include" />
+                <e p="Chicken" t="Include" />
+                <e p="Drake" t="Include" />
+                <e p="Duck" t="Include" />
+                <e p="ForestTurkey" t="Include" />
+                <e p="Gobbler" t="Include" />
+                <e p="Goose" t="Include" />
+                <e p="Hen" t="Include" />
+                <e p="Rooster" t="Include" />
+                <e p="Turkey" t="Include" />
+                <e p="WildRooster" t="Include" />
+              </e>
+              <e p="Bunnies" t="Include">
+                <e p="Bunny" t="Include" />
+                <e p="DarkBunny" t="Include" />
+                <e p="LittleBunny" t="Include" />
+              </e>
+              <e p="Cattle" t="Include">
+                <e p="Bull" t="Include" />
+                <e p="Burro" t="Include" />
+                <e p="Cow" t="Include" />
+                <e p="Donkey" t="Include" />
+                <e p="Goat" t="Include" />
+                <e p="Ox" t="Include" />
+                <e p="Ram" t="Include" />
+                <e p="Sheep" t="Include" />
+                <e p="WildGoat" t="Include" />
+              </e>
+              <e p="Dogs" t="Include">
+                <e p="Pug" t="Include" />
+              </e>
+              <e p="Horses" t="Include">
+                <e p="Horse" t="Include" />
+                <e p="Pony" t="Include" />
+              </e>
+              <e p="Pigs" t="Include">
+                <e p="Pig" t="Include" />
+                <e p="Piggy" t="Include" />
+                <e p="Porky" t="Include" />
+                <e p="Swine" t="Include" />
+              </e>
+            </e>
+            <e p="Props" t="Include" />
+          </e>
+          <e p="WinterMonsters" t="Include">
+            <e p="Dogs" t="Include">
+              <e p="WinterBear" t="Include" />
+              <e p="WinterWarg" t="Include" />
+              <e p="WinterWolfTypeA" t="Include" />
+              <e p="WinterWolfTypeB" t="Include" />
+            </e>
+            <e p="Pigs" t="Include">
+              <e p="WinterBoar" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Foriero Store" t="Include">
+          <e p="Projects" t="Include">
+            <e p="GUIs" t="Include">
+              <e p="cartoon_pro_gui" t="Include">
+                <e p="Sprites" t="Include">
+                  <e p="common@1x" t="Include">
+                    <e p="backgrounds_variant_1" t="Include" />
+                    <e p="backgrounds_variant_2" t="Include" />
+                    <e p="backgrounds_variant_3" t="Include" />
+                    <e p="collectables_variant_1" t="Include" />
+                    <e p="collectables_variant_2" t="Include" />
+                    <e p="Common" t="Include" />
+                    <e p="controls_variant_1" t="Include" />
+                    <e p="controls_variant_2" t="Include" />
+                    <e p="icons_variant_1" t="Include" />
+                    <e p="icons_variant_2" t="Include" />
+                    <e p="import_spine.txt" t="Include" />
+                    <e p="import_unity.xml" t="Include" />
+                    <e p="log.txt" t="Include" />
+                  </e>
+                  <e p="common@2x" t="Include">
+                    <e p="backgrounds_variant_1" t="Include" />
+                    <e p="backgrounds_variant_2" t="Include" />
+                    <e p="backgrounds_variant_3" t="Include" />
+                    <e p="collectables_variant_1" t="Include" />
+                    <e p="collectables_variant_2" t="Include" />
+                    <e p="Common" t="Include" />
+                    <e p="controls_variant_1" t="Include" />
+                    <e p="controls_variant_2" t="Include" />
+                    <e p="icons_variant_1" t="Include" />
+                    <e p="icons_variant_2" t="Include" />
+                    <e p="import_spine.txt" t="Include" />
+                    <e p="import_unity.xml" t="Include" />
+                    <e p="log.txt" t="Include" />
+                    <e p="Menu" t="Include" />
+                    <e p="specials" t="Include">
+                      <e p="time_points" t="Include" />
+                    </e>
+                  </e>
+                  <e p="common@4x" t="Include">
+                    <e p="backgrounds_variant_1" t="Include" />
+                    <e p="backgrounds_variant_2" t="Include" />
+                    <e p="backgrounds_variant_3" t="Include" />
+                    <e p="collectables_variant_1" t="Include" />
+                    <e p="collectables_variant_2" t="Include" />
+                    <e p="Common" t="Include" />
+                    <e p="controls_variant_1" t="Include" />
+                    <e p="controls_variant_2" t="Include" />
+                    <e p="icons_variant_1" t="Include" />
+                    <e p="icons_variant_2" t="Include" />
+                    <e p="import_spine.txt" t="Include" />
+                    <e p="import_unity.xml" t="Include" />
+                    <e p="log.txt" t="Include" />
+                    <e p="Menu" t="Include" />
+                    <e p="specials" t="Include">
+                      <e p="time_points" t="Include" />
+                    </e>
+                  </e>
+                  <e p="gui@1x" t="Include">
+                    <e p="blue_common" t="Include" />
+                    <e p="blue_icons" t="Include" />
+                    <e p="blue_variant_1" t="Include" />
+                    <e p="blue_variant_2" t="Include" />
+                    <e p="green_common" t="Include" />
+                    <e p="green_icons" t="Include" />
+                    <e p="green_variant_1" t="Include" />
+                    <e p="green_variant_2" t="Include" />
+                    <e p="import_spine.txt" t="Include" />
+                    <e p="import_unity.xml" t="Include" />
+                    <e p="log.txt" t="Include" />
+                    <e p="orange_common" t="Include" />
+                    <e p="orange_icons" t="Include" />
+                    <e p="orange_variant_1" t="Include" />
+                    <e p="orange_variant_2" t="Include" />
+                    <e p="red_common" t="Include" />
+                    <e p="red_icons" t="Include" />
+                    <e p="red_variant_1" t="Include" />
+                    <e p="red_variant_2" t="Include" />
+                    <e p="yellow_common" t="Include" />
+                    <e p="yellow_icons" t="Include" />
+                    <e p="yellow_variant_1" t="Include" />
+                    <e p="yellow_variant_2" t="Include" />
+                  </e>
+                  <e p="gui@2x" t="Include">
+                    <e p="blue_common" t="Include" />
+                    <e p="blue_icons" t="Include" />
+                    <e p="blue_variant_1" t="Include" />
+                    <e p="blue_variant_2" t="Include" />
+                    <e p="green_common" t="Include" />
+                    <e p="green_icons" t="Include" />
+                    <e p="green_variant_1" t="Include" />
+                    <e p="green_variant_2" t="Include" />
+                    <e p="import_spine.txt" t="Include" />
+                    <e p="import_unity.xml" t="Include" />
+                    <e p="log.txt" t="Include" />
+                    <e p="orange_common" t="Include" />
+                    <e p="orange_icons" t="Include" />
+                    <e p="orange_variant_1" t="Include" />
+                    <e p="orange_variant_2" t="Include" />
+                    <e p="red_common" t="Include" />
+                    <e p="red_icons" t="Include" />
+                    <e p="red_variant_1" t="Include" />
+                    <e p="red_variant_2" t="Include" />
+                    <e p="yellow_common" t="Include" />
+                    <e p="yellow_icons" t="Include" />
+                    <e p="yellow_variant_1" t="Include" />
+                    <e p="yellow_variant_2" t="Include" />
+                  </e>
+                  <e p="gui@4x" t="Include">
+                    <e p="blue_common" t="Include" />
+                    <e p="blue_icons" t="Include" />
+                    <e p="blue_variant_1" t="Include" />
+                    <e p="blue_variant_2" t="Include" />
+                    <e p="green_common" t="Include" />
+                    <e p="green_icons" t="Include" />
+                    <e p="green_variant_1" t="Include" />
+                    <e p="green_variant_2" t="Include" />
+                    <e p="import_spine.txt" t="Include" />
+                    <e p="import_unity.xml" t="Include" />
+                    <e p="log.txt" t="Include" />
+                    <e p="orange_common" t="Include" />
+                    <e p="orange_icons" t="Include" />
+                    <e p="orange_variant_1" t="Include" />
+                    <e p="orange_variant_2" t="Include" />
+                    <e p="red_common" t="Include" />
+                    <e p="red_icons" t="Include" />
+                    <e p="red_variant_1" t="Include" />
+                    <e p="red_variant_2" t="Include" />
+                    <e p="yellow_common" t="Include" />
+                    <e p="yellow_icons" t="Include" />
+                    <e p="yellow_variant_1" t="Include" />
+                    <e p="yellow_variant_2" t="Include" />
+                  </e>
+                  <e p="socials@1x" t="Include">
+                    <e p="import_spine.txt" t="Include" />
+                    <e p="import_unity.xml" t="Include" />
+                    <e p="log.txt" t="Include" />
+                    <e p="socials_icons" t="Include" />
+                    <e p="socials_variant_1" t="Include" />
+                    <e p="socials_variant_2" t="Include" />
+                  </e>
+                  <e p="socials@2x" t="Include">
+                    <e p="import_spine.txt" t="Include" />
+                    <e p="import_unity.xml" t="Include" />
+                    <e p="log.txt" t="Include" />
+                    <e p="socials_icons" t="Include" />
+                    <e p="socials_variant_1" t="Include" />
+                    <e p="socials_variant_2" t="Include" />
+                  </e>
+                  <e p="socials@4x" t="Include">
+                    <e p="import_spine.txt" t="Include" />
+                    <e p="import_unity.xml" t="Include" />
+                    <e p="log.txt" t="Include" />
+                    <e p="socials_icons" t="Include" />
+                    <e p="socials_variant_1" t="Include" />
+                    <e p="socials_variant_2" t="Include" />
+                  </e>
+                </e>
+              </e>
+              <e p="wood_pro_gui" t="Include">
+                <e p="help" t="Include" />
+                <e p="Scenes" t="Include" />
+                <e p="Sprites" t="Include">
+                  <e p="gui@1x" t="Include">
+                    <e p="accessories" t="Include" />
+                    <e p="Buttons" t="Include" />
+                    <e p="controls" t="Include" />
+                    <e p="extra" t="Include" />
+                    <e p="forms" t="Include" />
+                    <e p="import_spine.txt" t="Include" />
+                    <e p="import_unity.xml" t="Include" />
+                    <e p="log.txt" t="Include" />
+                    <e p="others" t="Include" />
+                    <e p="wood" t="Include" />
+                  </e>
+                  <e p="gui@2x" t="Include">
+                    <e p="accessories" t="Include" />
+                    <e p="Buttons" t="Include" />
+                    <e p="controls" t="Include" />
+                    <e p="extra" t="Include" />
+                    <e p="forms" t="Include" />
+                    <e p="import_spine.txt" t="Include" />
+                    <e p="import_unity.xml" t="Include" />
+                    <e p="log.txt" t="Include" />
+                    <e p="others" t="Include" />
+                    <e p="wood" t="Include" />
+                  </e>
+                  <e p="gui@4x" t="Include">
+                    <e p="accessories" t="Include" />
+                    <e p="Buttons" t="Include" />
+                    <e p="controls" t="Include" />
+                    <e p="extra" t="Include" />
+                    <e p="forms" t="Include" />
+                    <e p="import_spine.txt" t="Include" />
+                    <e p="import_unity.xml" t="Include" />
+                    <e p="log.txt" t="Include" />
+                    <e p="others" t="Include" />
+                    <e p="wood" t="Include" />
+                  </e>
+                  <e p="icons@1x" t="Include">
+                    <e p="icons_disabled" t="Include" />
+                    <e p="icons_music_keys" t="Include" />
+                    <e p="icons_orange" t="Include" />
+                    <e p="icons_red" t="Include" />
+                    <e p="icons_special" t="Include" />
+                    <e p="icons_white" t="Include" />
+                    <e p="import_spine.txt" t="Include" />
+                    <e p="import_unity.xml" t="Include" />
+                    <e p="log.txt" t="Include" />
+                    <e p="others" t="Include" />
+                  </e>
+                  <e p="icons@2x" t="Include">
+                    <e p="icons_disabled" t="Include" />
+                    <e p="icons_music_keys" t="Include" />
+                    <e p="icons_orange" t="Include" />
+                    <e p="icons_red" t="Include" />
+                    <e p="icons_special" t="Include" />
+                    <e p="icons_white" t="Include" />
+                    <e p="import_spine.txt" t="Include" />
+                    <e p="import_unity.xml" t="Include" />
+                    <e p="log.txt" t="Include" />
+                    <e p="others" t="Include" />
+                  </e>
+                  <e p="icons@4x" t="Include">
+                    <e p="icons_disabled" t="Include" />
+                    <e p="icons_music_keys" t="Include" />
+                    <e p="icons_orange" t="Include" />
+                    <e p="icons_red" t="Include" />
+                    <e p="icons_special" t="Include" />
+                    <e p="icons_white" t="Include" />
+                    <e p="import_spine.txt" t="Include" />
+                    <e p="import_unity.xml" t="Include" />
+                    <e p="log.txt" t="Include" />
+                    <e p="others" t="Include" />
+                  </e>
+                </e>
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="FullPalete" t="Include" />
+        <e p="GUIPackCartoon" t="Include">
+          <e p="Demo" t="Include">
+            <e p="Animations" t="Include">
+              <e p="Bird" t="Include" />
+              <e p="Girl" t="Include" />
+              <e p="HomeAnimations" t="Include" />
+              <e p="Idle&amp;Press" t="Include">
+                <e p="Buttons" t="Include" />
+                <e p="Lives" t="Include" />
+                <e p="PortraitButton" t="Include" />
+              </e>
+              <e p="ItemsIdle" t="Include">
+                <e p="Balloons" t="Include" />
+                <e p="Bunny" t="Include" />
+                <e p="Flow" t="Include" />
+                <e p="Grow" t="Include" />
+                <e p="MissionsFlag" t="Include" />
+                <e p="Move" t="Include" />
+                <e p="Palm" t="Include" />
+                <e p="Pulse" t="Include" />
+                <e p="Shake" t="Include" />
+                <e p="ShineGrow" t="Include" />
+                <e p="Skull" t="Include" />
+                <e p="Thunder" t="Include" />
+              </e>
+              <e p="ItemsShine" t="Include">
+                <e p="Coin" t="Include" />
+                <e p="Diamond" t="Include" />
+              </e>
+              <e p="JellyButton" t="Include" />
+              <e p="JellyUI" t="Include" />
+              <e p="LevelScene" t="Include">
+                <e p="Levels" t="Include" />
+                <e p="Menu" t="Include" />
+              </e>
+              <e p="LoadingBar" t="Include" />
+              <e p="Lock" t="Include" />
+              <e p="Popup" t="Include" />
+              <e p="Radial" t="Include" />
+              <e p="StarShine" t="Include" />
+            </e>
+            <e p="Audio" t="Include" />
+            <e p="Materials" t="Include" />
+            <e p="Resources" t="Include">
+              <e p="Prefabs" t="Include" />
+            </e>
+            <e p="Shaders" t="Include">
+              <e p="GrayTint.shader" t="Include" />
+            </e>
+          </e>
+          <e p="Sprites" t="Include">
+            <e p="_PNG-Sources" t="Include">
+              <e p="Avatars" t="Include" />
+              <e p="Backgrounds" t="Include">
+                <e p="Basic" t="Include" />
+                <e p="Lives&amp;Coins" t="Include" />
+                <e p="LoadingBars" t="Include" />
+                <e p="Popups" t="Include">
+                  <e p="Blue" t="Include" />
+                  <e p="HeadlineFlag" t="Include" />
+                  <e p="White" t="Include" />
+                </e>
+                <e p="ProgressBar" t="Include" />
+                <e p="RadialShine" t="Include" />
+                <e p="Ranking" t="Include" />
+                <e p="Scenes" t="Include" />
+                <e p="Slider" t="Include" />
+                <e p="StickerSpecialOffer" t="Include" />
+                <e p="Textfield" t="Include" />
+              </e>
+              <e p="Booster" t="Include">
+                <e p="Box" t="Include" />
+                <e p="Buttons" t="Include" />
+              </e>
+              <e p="Buttons" t="Include">
+                <e p="Arrows" t="Include" />
+                <e p="BasicButtons" t="Include" />
+                <e p="Checkbox" t="Include" />
+                <e p="CircleButtons" t="Include" />
+                <e p="HomeScenePlayButton" t="Include" />
+                <e p="Radiobutton" t="Include" />
+              </e>
+              <e p="General" t="Include" />
+              <e p="IconsWhite" t="Include" />
+              <e p="Items" t="Include">
+                <e p="Coins" t="Include">
+                  <e p="Basic" t="Include" />
+                  <e p="Chest" t="Include" />
+                  <e p="Coin3d" t="Include" />
+                  <e p="Sack" t="Include" />
+                </e>
+                <e p="Items" t="Include">
+                  <e p="Apple" t="Include" />
+                  <e p="Arrows" t="Include" />
+                  <e p="Badges" t="Include" />
+                  <e p="Bag" t="Include" />
+                  <e p="Bolts" t="Include" />
+                  <e p="Bomb" t="Include" />
+                  <e p="Book" t="Include" />
+                  <e p="BookOpen" t="Include" />
+                  <e p="Box" t="Include" />
+                  <e p="Clock" t="Include" />
+                  <e p="Cloverleaf" t="Include" />
+                  <e p="ColorBubble" t="Include" />
+                  <e p="ColorSpiralCandy" t="Include" />
+                  <e p="Credits" t="Include" />
+                  <e p="CrossBubble" t="Include" />
+                  <e p="Crown" t="Include" />
+                  <e p="Cup" t="Include" />
+                  <e p="Diamonds" t="Include">
+                    <e p="01" t="Include" />
+                    <e p="02" t="Include" />
+                  </e>
+                  <e p="Gift" t="Include" />
+                  <e p="Hammer" t="Include" />
+                  <e p="Hand" t="Include" />
+                  <e p="Health" t="Include" />
+                  <e p="Hourglass" t="Include" />
+                  <e p="IceCream" t="Include" />
+                  <e p="JellyRings" t="Include" />
+                  <e p="Keys" t="Include" />
+                  <e p="LifePreserver" t="Include" />
+                  <e p="Locks" t="Include" />
+                  <e p="Magic" t="Include" />
+                  <e p="Magnet" t="Include" />
+                  <e p="Mail" t="Include" />
+                  <e p="Mountains" t="Include" />
+                  <e p="Moves" t="Include" />
+                  <e p="Patch" t="Include" />
+                  <e p="Pencil" t="Include" />
+                  <e p="Potions" t="Include" />
+                  <e p="Settings" t="Include" />
+                  <e p="Shield" t="Include" />
+                  <e p="Shop" t="Include" />
+                  <e p="Skull" t="Include" />
+                  <e p="SpinWheelIcon" t="Include" />
+                  <e p="Spiral" t="Include" />
+                  <e p="Strawberry" t="Include" />
+                  <e p="Sword" t="Include" />
+                  <e p="Tedddy" t="Include" />
+                  <e p="Toaster" t="Include" />
+                  <e p="Wing" t="Include" />
+                </e>
+                <e p="Lives" t="Include">
+                  <e p="Lives" t="Include" />
+                  <e p="LivesBag" t="Include" />
+                </e>
+              </e>
+              <e p="LevelScene" t="Include">
+                <e p="Backgrounds" t="Include" />
+                <e p="BirdAnimation" t="Include" />
+                <e p="Clouds" t="Include" />
+                <e p="CloudsSky" t="Include" />
+              </e>
+              <e p="PortraitLevelStuff" t="Include">
+                <e p="Backgrounds" t="Include" />
+                <e p="iPad" t="Include" />
+                <e p="Level" t="Include" />
+                <e p="LevelButtons" t="Include" />
+                <e p="Logo" t="Include" />
+                <e p="Trees" t="Include" />
+              </e>
+              <e p="SpinWheelSprites" t="Include">
+                <e p="Text" t="Include" />
+                <e p="Wheel" t="Include" />
+              </e>
+            </e>
+            <e p="Backgrounds" t="Include">
+              <e p="Lives &amp; Coins" t="Include" />
+              <e p="LoadingBars" t="Include" />
+              <e p="Popups" t="Include">
+                <e p="Background" t="Include">
+                  <e p="Blue" t="Include" />
+                  <e p="White" t="Include" />
+                </e>
+                <e p="HeadlineFlag" t="Include" />
+              </e>
+              <e p="ProgressBarsMissions" t="Include" />
+              <e p="Scenes" t="Include" />
+              <e p="Slider" t="Include" />
+            </e>
+            <e p="Booster" t="Include">
+              <e p="Box" t="Include" />
+            </e>
+            <e p="Buttons" t="Include">
+              <e p="Arrows" t="Include" />
+              <e p="BasicButtons" t="Include" />
+              <e p="CircleButtons" t="Include" />
+            </e>
+            <e p="Items" t="Include">
+              <e p="Coins" t="Include">
+                <e p="BasicCoin" t="Include" />
+                <e p="Coin3d" t="Include" />
+                <e p="CoinChest" t="Include" />
+                <e p="Sack" t="Include" />
+              </e>
+              <e p="Items" t="Include">
+                <e p="Apple" t="Include" />
+                <e p="Badges" t="Include" />
+                <e p="Bag" t="Include" />
+                <e p="Balloons" t="Include" />
+                <e p="Bolt" t="Include" />
+                <e p="Bomb" t="Include" />
+                <e p="Book" t="Include">
+                  <e p="Closed" t="Include" />
+                  <e p="Open" t="Include" />
+                </e>
+                <e p="Box" t="Include" />
+                <e p="Bunny" t="Include">
+                  <e p="Animation" t="Include" />
+                </e>
+                <e p="Clock" t="Include" />
+                <e p="Cloverleaf" t="Include" />
+                <e p="CoinBig" t="Include" />
+                <e p="ColorBubbles" t="Include" />
+                <e p="ColorSpiralCandy" t="Include" />
+                <e p="Credits" t="Include" />
+                <e p="CrossBubble" t="Include" />
+                <e p="Crown" t="Include" />
+                <e p="Cup" t="Include" />
+                <e p="Diamonds" t="Include">
+                  <e p="01" t="Include" />
+                  <e p="02" t="Include" />
+                </e>
+                <e p="Gift" t="Include" />
+                <e p="Hammer" t="Include" />
+                <e p="Hand" t="Include" />
+                <e p="Health" t="Include" />
+                <e p="Hourglass" t="Include" />
+                <e p="IceCream" t="Include" />
+                <e p="JellyRings" t="Include" />
+                <e p="Keys" t="Include" />
+                <e p="LifePreserver" t="Include" />
+                <e p="Lock" t="Include" />
+                <e p="Magic" t="Include" />
+                <e p="Magnet" t="Include" />
+                <e p="Mail" t="Include" />
+                <e p="Missions" t="Include">
+                  <e p="ButtonIcon" t="Include" />
+                  <e p="PopupImage" t="Include" />
+                </e>
+                <e p="MoveArrows" t="Include" />
+                <e p="Moves" t="Include" />
+                <e p="Patch" t="Include" />
+                <e p="Pencil" t="Include" />
+                <e p="Potion" t="Include" />
+                <e p="Settings" t="Include" />
+                <e p="Shield" t="Include" />
+                <e p="Shop" t="Include" />
+                <e p="Skull" t="Include" />
+                <e p="SpinWheelIcon" t="Include" />
+                <e p="Spiral" t="Include" />
+                <e p="Strawberry" t="Include" />
+                <e p="Sword" t="Include" />
+                <e p="Teddy" t="Include" />
+                <e p="Toast" t="Include" />
+                <e p="Wing" t="Include" />
+              </e>
+              <e p="Lives" t="Include">
+                <e p="Hearts" t="Include" />
+                <e p="HeartsBag" t="Include" />
+              </e>
+              <e p="Stars" t="Include" />
+            </e>
+            <e p="LevelScene" t="Include">
+              <e p="Backgrounds" t="Include" />
+              <e p="Bird" t="Include" />
+              <e p="Cloud" t="Include" />
+            </e>
+            <e p="Particles" t="Include">
+              <e p="LosePopup" t="Include" />
+              <e p="SpinWheel" t="Include" />
+              <e p="WinPopup" t="Include" />
+            </e>
+            <e p="PortraitLevelStuff" t="Include">
+              <e p="Background" t="Include" />
+              <e p="LevelButtons" t="Include" />
+              <e p="Trees" t="Include" />
+            </e>
+            <e p="SpinWheel" t="Include" />
+          </e>
+        </e>
+        <e p="Prefabs" t="Include">
+          <e p="Resources" t="Include" />
+          <e p="UI" t="Include" />
+        </e>
+        <e p="Scenes" t="Include" />
+        <e p="Scripts" t="Include">
+          <e p="BackGroundMusicController.cs" t="Include" />
+          <e p="Barricade.cs" t="Include" />
+          <e p="BarricadeUI.cs" t="Include" />
+          <e p="Bomb.cs" t="Include" />
+          <e p="Bonus.cs" t="Include" />
+          <e p="Bullet.cs" t="Include" />
+          <e p="Component" t="Include">
+            <e p="DestroyComponent.cs" t="Include" />
+            <e p="Health.cs" t="Include" />
+            <e p="LevelManagerComponent.cs" t="Include" />
+            <e p="SpawnBonusComponent.cs" t="Include" />
+          </e>
+          <e p="Controller" t="Include">
+            <e p="MoveEnemy.cs" t="Include" />
+          </e>
+          <e p="PlayerStats.cs" t="Include" />
+          <e p="SaveUpLevel.cs" t="Include" />
+          <e p="SpawnerEnemy.cs" t="Include" />
+          <e p="TimerInterval.cs" t="Include" />
+          <e p="TurrelSpawner.cs" t="Include" />
+          <e p="Turrets.cs" t="Include" />
+          <e p="UI" t="Include">
+            <e p="Drag.cs" t="Include" />
+            <e p="Drop.cs" t="Include" />
+            <e p="PlayerUI.cs" t="Include" />
+          </e>
+        </e>
+        <e p="TextMesh Pro" t="Include">
+          <e p="Documentation" t="Include" />
+          <e p="Fonts" t="Include">
+            <e p="LiberationSans - OFL.txt" t="Include" />
+          </e>
+          <e p="Resources" t="Include">
+            <e p="Fonts &amp; Materials" t="Include" />
+            <e p="LineBreaking Following Characters.txt" t="Include" />
+            <e p="LineBreaking Leading Characters.txt" t="Include" />
+            <e p="Sprite Assets" t="Include" />
+            <e p="Style Sheets" t="Include" />
+          </e>
+          <e p="Shaders" t="Include">
+            <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+            <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+            <e p="TMP_Bitmap.shader" t="Include" />
+            <e p="TMP_SDF Overlay.shader" t="Include" />
+            <e p="TMP_SDF SSD.shader" t="Include" />
+            <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+            <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+            <e p="TMP_SDF-Mobile SSD.shader" t="Include" />
+            <e p="TMP_SDF-Mobile.shader" t="Include" />
+            <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+            <e p="TMP_SDF-Surface.shader" t="Include" />
+            <e p="TMP_SDF.shader" t="Include" />
+            <e p="TMP_Sprite.shader" t="Include" />
+            <e p="TMPro.cginc" t="Include" />
+            <e p="TMPro_Mobile.cginc" t="Include" />
+            <e p="TMPro_Properties.cginc" t="Include" />
+            <e p="TMPro_Surface.cginc" t="Include" />
+          </e>
+          <e p="Sprites" t="Include">
+            <e p="EmojiOne Attribution.txt" t="Include" />
+            <e p="EmojiOne.json" t="Include" />
+          </e>
+        </e>
+        <e p="Texture" t="Include" />
+        <e p="UI Pack" t="Include">
+          <e p="Nightmare" t="Include">
+            <e p="Particles" t="Include">
+              <e p="Materials" t="Include" />
+              <e p="Textures" t="Include" />
+            </e>
+            <e p="Prefabs" t="Include">
+              <e p="Backgrounds" t="Include">
+                <e p="Plants" t="Include" />
+              </e>
+              <e p="UIs" t="Include">
+                <e p="Banners" t="Include" />
+                <e p="Bars" t="Include" />
+                <e p="Buttons" t="Include" />
+                <e p="Characters" t="Include" />
+                <e p="Gauges" t="Include">
+                  <e p="Harizontal" t="Include" />
+                  <e p="Vertical" t="Include" />
+                </e>
+                <e p="Gemstones" t="Include" />
+                <e p="Icons" t="Include">
+                  <e p="BW" t="Include" />
+                  <e p="Color" t="Include" />
+                  <e p="Menu" t="Include" />
+                </e>
+                <e p="Panels" t="Include" />
+                <e p="Portraits" t="Include" />
+                <e p="Props" t="Include" />
+                <e p="Scrollbars" t="Include" />
+                <e p="Sliders" t="Include" />
+                <e p="Slots" t="Include" />
+                <e p="Stars" t="Include" />
+                <e p="Switches" t="Include" />
+                <e p="Toggles" t="Include" />
+                <e p="Windows" t="Include">
+                  <e p="Sub Windows" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="Readme.txt" t="Include" />
+            <e p="Sounds" t="Include" />
+            <e p="Sprites" t="Include" />
+          </e>
+        </e>
+        <e p="Underwater GUI Pack" t="Include">
+          <e p="_sliced" t="Include" />
+          <e p="Animations" t="Include" />
+          <e p="image" t="Include" />
+        </e>
+      </e>
+      <e p="FermaDefence.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

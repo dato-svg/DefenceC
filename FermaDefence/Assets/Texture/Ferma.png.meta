@@ -1,0 +1,2388 @@
+fileFormatVersion: 2
+guid: 3703772faf751f1428e55f97fa0440b9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 90
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ferma_0
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 759
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ab0d4ebfea1c54b9060af9fd079953
+      internalID: 1765972133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_1
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 756
+        width: 103
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74d7b01975821247bac360268cc224d
+      internalID: -508240285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_2
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 758
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e209868e3096044b03034646800222
+      internalID: 433484483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_3
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 758
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e9b080f005e554caa6946e45b901d6
+      internalID: -1359550345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_4
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 758
+        width: 109
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99137a3a0d4f90448af17af1d2b1321c
+      internalID: 2070475720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_5
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 758
+        width: 104
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce6ed8d6a0bb2844b29b599ce2e439c
+      internalID: 1071361703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_6
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 758
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9f83f6a63fbb64d80715d23d5284ee
+      internalID: -866947266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_7
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 758
+        width: 103
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9874c68954a8ee7478144290b5b6321c
+      internalID: 122571344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_8
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 758
+        width: 103
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bbb6037dd799674f9b05388286264c0
+      internalID: -1799243131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_9
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 774
+        width: 92
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba2af4f28c0cc648865b765f3bda6bd
+      internalID: 1578122387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_10
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 774
+        width: 76
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ffd1bfad1526a84eb6a94a286a99645
+      internalID: 494256548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_11
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 772
+        width: 85
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7691272285528474883587f276ccffc1
+      internalID: -165376092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_12
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 770
+        width: 66
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adfd583956c3d4e4ba0a6f5558a2f1aa
+      internalID: 276807717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_13
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 648
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d956862799cf848b6762b6ac0093a4
+      internalID: 49394699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_14
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 648
+        width: 103
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d0de6532c818c45b3b26bb2347809f
+      internalID: -1061175705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_15
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 648
+        width: 105
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c3d05af1599714ca0fd0c04257eceb
+      internalID: -459746470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_16
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 648
+        width: 108
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a03aee4086637b46a6941db848cea61
+      internalID: -146629807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_17
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 650
+        width: 101
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e17d68b1fe025947805a261c73751f6
+      internalID: 1118939389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_18
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 648
+        width: 111
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1abbe4a1f25bf4fbab65d53bd0ad6f
+      internalID: 2119540889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_19
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 648
+        width: 105
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850ee8f55b058d74c8dbf95b3d0656ab
+      internalID: 1593820274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_20
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 648
+        width: 103
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694eef4956889b84f9dc600d18743af6
+      internalID: -704803935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_21
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 648
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e05f3afb4dcaa42a174f43e8e33e8d
+      internalID: -957029486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_22
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 559
+        width: 161
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0744ad72a551a784586870ed7ed98bc4
+      internalID: -881452452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_23
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 559
+        width: 162
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7561ef5639876d64a92cde2c363dafb0
+      internalID: -590590215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_24
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 538
+        width: 103
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f41c977b844ff14587bbf902110bd43
+      internalID: 1757318688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_25
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 538
+        width: 102
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e48cbf9101d50148b355cf0d5ffff47
+      internalID: 471255412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_26
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 534
+        width: 105
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc547f893599ca45bb73550c9376b7c
+      internalID: 1283211584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_27
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 536
+        width: 110
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf68c1fb6e30c248b0b63f1700c4a6f
+      internalID: -300335788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_28
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 534
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20d898bd6fddd8449205d904a8cc6d8
+      internalID: 586943332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_29
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 540
+        width: 106
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2310ef8cd28072744a753fd1e9fb0126
+      internalID: -1016697395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_30
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 536
+        width: 110
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569a834bb8f651b41bbf07452f710985
+      internalID: 1195128837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_31
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 428
+        width: 106
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a8ee183240a2c48b4b0cc0615ffb59
+      internalID: -1624873950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_32
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 536
+        width: 105
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914f3622ddac1694cb619ee15067679a
+      internalID: -1306307151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_33
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 534
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32f363f196650041b9de842bb9b2128
+      internalID: 95617797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_34
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 536
+        width: 102
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798120f18f87b1448a966de7ecff24f0
+      internalID: 2024282461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_35
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 538
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62441754e05eb5d47a5354320f03bfd3
+      internalID: -1887570069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_36
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 428
+        width: 103
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cab65786874fd148a853f2e81084a61
+      internalID: -1007940738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_37
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 428
+        width: 104
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e64a628bebf4c40bd8cd80382179ba
+      internalID: 288835416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_38
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 424
+        width: 107
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624ed9187364e1940aa11be8d0988da5
+      internalID: 1124170348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_39
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 428
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e95f2ced463b974b8df8062231c0e14
+      internalID: -233247384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_40
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 428
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1364bda60546a6443b76585bdf3a8eb4
+      internalID: 762150479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_41
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 428
+        width: 107
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b7538e96eb13f44a6f510020513aa0
+      internalID: -407779111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_42
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 428
+        width: 106
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a64e8a2db2cf2d48a71e40ea2bfd5af
+      internalID: 1697958771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_43
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 428
+        width: 102
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ba69b9ee7fc8240ad7074628f4d452
+      internalID: 359330244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_44
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 421
+        width: 110
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e437daedbcbd95e4eaa17beac2323284
+      internalID: 1861439079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_45
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 418
+        width: 94
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a3e73dc76d5e647b0ab9a67ee15fda
+      internalID: -1368939406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_46
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 418
+        width: 100
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d54efbc9d92d64cbf7a14ed045b330
+      internalID: -308347089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_47
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 318
+        width: 102
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23dc37500710c45459e853352dd24736
+      internalID: -1811066455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_48
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 422
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898db1ef3aebcfa429f3d5be408204c5
+      internalID: -1978951571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_49
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 422
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f752002bac5194d439e9a23af47f957e
+      internalID: -1991496655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_50
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 318
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8311452ed7a6d3f40b5d56490d4ffd2e
+      internalID: -464982451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_51
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 422
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3bc3d973706f994c97fcba9fcef2b79
+      internalID: 1879112291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_52
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 318
+        width: 105
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b897250d47af0174597dacdb28842bf7
+      internalID: 1371337504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_53
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 422
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff641e13c5ab5dd4c96ae7d0961947c5
+      internalID: -451196774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_54
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 318
+        width: 102
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91daa7b6ede776a4283e341995d12bfd
+      internalID: 217787488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_55
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 318
+        width: 103
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297ebdfb5af617d40b34777bb048ad3d
+      internalID: -806864484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_56
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 318
+        width: 105
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30a00c7bbabb6044944b9494f05d26b
+      internalID: 246789465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_57
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 318
+        width: 104
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ac8815c9f6bf445be2ef89b2c83ea9
+      internalID: -1985666177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_58
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 318
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0638071982e8e3040b1b221d81eb8ae1
+      internalID: 971143072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_59
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 368
+        width: 62
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86f75b47e13dbb4a9e4f9413972f55a
+      internalID: 226069960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_60
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 364
+        width: 58
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91e6c9314f5a2d46ad98b434749eddc
+      internalID: -1118416110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_61
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 364
+        width: 62
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7ca715a85587048bc6c63eec6cb99f
+      internalID: -1268441140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_62
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 336
+        width: 131
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae098e10b53ff0438e386eee068467f
+      internalID: -285709821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_63
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 348
+        width: 61
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cac780bb9f9cea4cacc44a6d5e4b990
+      internalID: -2100355141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_64
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 330
+        width: 57
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4bc84685c2e6b9498cd4128096b8464
+      internalID: -1364421813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_65
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 330
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ffb6be7bb298b4491ff0a4cd938962
+      internalID: 295310663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_66
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 328
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d1c7990688fcc4fa28c300f12f4d7f
+      internalID: -1749142042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_67
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 332
+        width: 29
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad13b5e4cb2437499ce978a7c8aa265
+      internalID: 2072236093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_68
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 332
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df5ba93320a8fc48a93b3079f293c65
+      internalID: -1555484092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_69
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 208
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5538b028bb79f40468be965eef90fe4f
+      internalID: 1274885738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_70
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 208
+        width: 102
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e049165929c45478af7c38fb837c7d
+      internalID: 1492646360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_71
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 208
+        width: 105
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1697bce323f944f86ac6385b3d2ba6
+      internalID: 1443453814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_72
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 208
+        width: 108
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8d0ad5616f9be41bb6f7207a4a06eb
+      internalID: -1133474625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_73
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 208
+        width: 98
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b5c5135fa10794d962dd3777f361c7
+      internalID: 989363112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_74
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 206
+        width: 109
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6d9eef932968b4496e23cbf9ad381e
+      internalID: -1034707555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_75
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 208
+        width: 105
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540a7ceb39980594286e2606dffbf691
+      internalID: -1107425739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_76
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 208
+        width: 103
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205d975a5c6e2f949a21a5f0d87267b6
+      internalID: -1333404225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_77
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 208
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cbb894e55a1588408c9743e5f82db8a
+      internalID: -766295403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_78
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 246
+        width: 14
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb888f746c9a79746bdfb258401b94c3
+      internalID: -3146150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_79
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 246
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e449a2ef3ef6e6b4b88e006ba4f9f88e
+      internalID: -453049320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_80
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 280
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a91ea22eb49b6408ddd6f767b362d3
+      internalID: 1334368945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_81
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 283
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0bbb0635c935d4899ffab1ec3b2cec
+      internalID: -1283044838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_82
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 284
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f054887c0889541bb66e2dc6a70e69
+      internalID: -293982738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_83
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 282
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4af16e59901c8f4ca485531dbcb4970
+      internalID: -905067173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_84
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 282
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b409049ab6b7cde47b609dec7980f88b
+      internalID: 310975760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_85
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 246
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48bd3c4c0397b064ea15c7411e30d5a3
+      internalID: 659251379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_86
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 264
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8617fea116eba0149b8467826319f0d4
+      internalID: 491372042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_87
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 264
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943bc7845c97b6142b21ccd94d51d932
+      internalID: 290424142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_88
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 264
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293e5a9c5d6c57445ad163ae6a2147e0
+      internalID: -244378568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_89
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 249
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73574eaf3531f364c91da92f4a1f0abe
+      internalID: -49477392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_90
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 250
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db23c9a6f1fe424881cc069951075e2
+      internalID: -744193950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_91
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 246
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7f7b4baaca05941ae3caf028f76c60
+      internalID: 880465245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_92
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 246
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a9e52f7c8d7dd4f9916c5ab3cd6ca4
+      internalID: 762934373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_93
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 96
+        width: 104
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404bf62b52857734fbb1c0775082c80c
+      internalID: -1852704385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_94
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 96
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a762003d6376f4397eb3ef89e2452f
+      internalID: 1309024865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_95
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 96
+        width: 107
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4642be1a47d6b0941ad699bd759f375b
+      internalID: 1013920410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_96
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 176
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51ed2a008767b24e943bad8283fa224
+      internalID: 664387901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_97
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 176
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa8a2be6aedb324fba8b55688ffcd1c
+      internalID: -417190366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_98
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 176
+        width: 114
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc8e34404ad59d4982c9a1e56e0500b
+      internalID: 1307382829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_99
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 176
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0fb3e0e28bb1c41a59a72251fe4503
+      internalID: -110562805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferma_100
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 176
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a352aa2852f6644a96dbe2b87df1b0
+      internalID: 1897856154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Ferma_0: 1765972133
+      Ferma_1: -508240285
+      Ferma_10: 494256548
+      Ferma_100: 1897856154
+      Ferma_11: -165376092
+      Ferma_12: 276807717
+      Ferma_13: 49394699
+      Ferma_14: -1061175705
+      Ferma_15: -459746470
+      Ferma_16: -146629807
+      Ferma_17: 1118939389
+      Ferma_18: 2119540889
+      Ferma_19: 1593820274
+      Ferma_2: 433484483
+      Ferma_20: -704803935
+      Ferma_21: -957029486
+      Ferma_22: -881452452
+      Ferma_23: -590590215
+      Ferma_24: 1757318688
+      Ferma_25: 471255412
+      Ferma_26: 1283211584
+      Ferma_27: -300335788
+      Ferma_28: 586943332
+      Ferma_29: -1016697395
+      Ferma_3: -1359550345
+      Ferma_30: 1195128837
+      Ferma_31: -1624873950
+      Ferma_32: -1306307151
+      Ferma_33: 95617797
+      Ferma_34: 2024282461
+      Ferma_35: -1887570069
+      Ferma_36: -1007940738
+      Ferma_37: 288835416
+      Ferma_38: 1124170348
+      Ferma_39: -233247384
+      Ferma_4: 2070475720
+      Ferma_40: 762150479
+      Ferma_41: -407779111
+      Ferma_42: 1697958771
+      Ferma_43: 359330244
+      Ferma_44: 1861439079
+      Ferma_45: -1368939406
+      Ferma_46: -308347089
+      Ferma_47: -1811066455
+      Ferma_48: -1978951571
+      Ferma_49: -1991496655
+      Ferma_5: 1071361703
+      Ferma_50: -464982451
+      Ferma_51: 1879112291
+      Ferma_52: 1371337504
+      Ferma_53: -451196774
+      Ferma_54: 217787488
+      Ferma_55: -806864484
+      Ferma_56: 246789465
+      Ferma_57: -1985666177
+      Ferma_58: 971143072
+      Ferma_59: 226069960
+      Ferma_6: -866947266
+      Ferma_60: -1118416110
+      Ferma_61: -1268441140
+      Ferma_62: -285709821
+      Ferma_63: -2100355141
+      Ferma_64: -1364421813
+      Ferma_65: 295310663
+      Ferma_66: -1749142042
+      Ferma_67: 2072236093
+      Ferma_68: -1555484092
+      Ferma_69: 1274885738
+      Ferma_7: 122571344
+      Ferma_70: 1492646360
+      Ferma_71: 1443453814
+      Ferma_72: -1133474625
+      Ferma_73: 989363112
+      Ferma_74: -1034707555
+      Ferma_75: -1107425739
+      Ferma_76: -1333404225
+      Ferma_77: -766295403
+      Ferma_78: -3146150
+      Ferma_79: -453049320
+      Ferma_8: -1799243131
+      Ferma_80: 1334368945
+      Ferma_81: -1283044838
+      Ferma_82: -293982738
+      Ferma_83: -905067173
+      Ferma_84: 310975760
+      Ferma_85: 659251379
+      Ferma_86: 491372042
+      Ferma_87: 290424142
+      Ferma_88: -244378568
+      Ferma_89: -49477392
+      Ferma_9: 1578122387
+      Ferma_90: -744193950
+      Ferma_91: 880465245
+      Ferma_92: 762934373
+      Ferma_93: -1852704385
+      Ferma_94: 1309024865
+      Ferma_95: 1013920410
+      Ferma_96: 664387901
+      Ferma_97: -417190366
+      Ferma_98: 1307382829
+      Ferma_99: -110562805
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
