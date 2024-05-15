@@ -5807,17 +5807,9 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3936625041929719015, guid: 156f5482caf5a3f4ba935115e7b2c8ab, type: 3}
-      propertyPath: Level
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 3936625041929719015, guid: 156f5482caf5a3f4ba935115e7b2c8ab, type: 3}
       propertyPath: spawnerEnemy
       value: 
       objectReference: {fileID: 690755683}
-    - target: {fileID: 7553132121653080031, guid: 156f5482caf5a3f4ba935115e7b2c8ab, type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
