@@ -1076,6 +1076,9 @@
           </e>
           <e p="Third-Party Notices.txt" t="Include" />
           <e p="WorkingData" t="Include">
+            <e p="Editor" t="Include">
+              <e p="SavesEditorYG.json" t="Include" />
+            </e>
             <e p="SavesYG.cs" t="Include" />
           </e>
         </e>
