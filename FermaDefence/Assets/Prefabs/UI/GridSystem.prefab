@@ -494,6 +494,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2151862314068967169}
+  - component: {fileID: 2088589853562636680}
   m_Layer: 0
   m_Name: GridSystem
   m_TagString: Untagged
@@ -518,6 +519,18 @@ Transform:
   - {fileID: 5263550061094751392}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2088589853562636680
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 688947674881231214}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35f1d610d8e681b448d1716f24892b85, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &803267686379689130
 GameObject:
   m_ObjectHideFlags: 0
@@ -1712,7 +1725,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 4758318087586794151}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 2088589853562636680}
+        m_TargetAssemblyTypeName: RewardCrazyController, Assembly-CSharp
+        m_MethodName: ShowRewRew
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!1 &3827629176225279680
 GameObject:
   m_ObjectHideFlags: 0
@@ -2956,7 +2981,7 @@ MonoBehaviour:
   image: {fileID: 0}
   panelWin: {fileID: 7553132121653080031}
   spawnerEnemy: {fileID: 0}
-  Level: 2
+  Level: 5
 --- !u!1 &6234180511995223826
 GameObject:
   m_ObjectHideFlags: 0
@@ -3363,6 +3388,18 @@ MonoBehaviour:
       - m_Target: {fileID: 5706118980459612378}
         m_TargetAssemblyTypeName: Component.LevelManagerComponent, Assembly-CSharp
         m_MethodName: ReloadThisLevel
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 2088589853562636680}
+        m_TargetAssemblyTypeName: RewardCrazyController, Assembly-CSharp
+        m_MethodName: ShowRewMid
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -5023,6 +5060,18 @@ MonoBehaviour:
       - m_Target: {fileID: 5706118980459612378}
         m_TargetAssemblyTypeName: Component.LevelManagerComponent, Assembly-CSharp
         m_MethodName: NextLevel
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 2088589853562636680}
+        m_TargetAssemblyTypeName: RewardCrazyController, Assembly-CSharp
+        m_MethodName: ShowRewMid
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

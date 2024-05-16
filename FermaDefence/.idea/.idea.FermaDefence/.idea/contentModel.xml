@@ -4,6 +4,8 @@
     <e p="C:\Users\PRO_TEAM_C#\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
     <e p="C:\Users\PRO_TEAM_C#\AppData\Local\JetBrains\Transient\Rider\v202\SolutionCaches\_FermaDefence.-1042361299.00" t="ExcludeRecursive" />
     <e p="C:\Users\PRO_TEAM_C#\Desktop\Git-hub\BloonsGame\Defence\DefenceC\FermaDefence" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="02_GUI" t="Include">
@@ -63,6 +65,86 @@
               <e p="Indicator" t="Include" />
               <e p="Slider" t="Include" />
               <e p="Window" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="CrazyOptimizer" t="Include">
+          <e p="Editor" t="Include">
+            <e p="OptimizerUtils.cs" t="Include" />
+            <e p="OptimizerWindow.cs" t="Include" />
+            <e p="Resources" t="Include" />
+            <e p="TreeLib" t="Include">
+              <e p="TreeElement.cs" t="Include" />
+              <e p="TreeElementUtility.cs" t="Include" />
+              <e p="TreeExtensionMethods.cs" t="Include" />
+              <e p="TreeModel.cs" t="Include" />
+              <e p="TreeViewWithTreeModel.cs" t="Include" />
+            </e>
+            <e p="WindowComponents" t="Include">
+              <e p="About.cs" t="Include" />
+              <e p="AudioOptimizations" t="Include">
+                <e p="AudioOptimization.cs" t="Include" />
+                <e p="AudioTree.cs" t="Include" />
+                <e p="AudioTreeItem.cs" t="Include" />
+              </e>
+              <e p="BuildLogs" t="Include">
+                <e p="BuildLogs.cs" t="Include" />
+                <e p="BuildLogTree.cs" t="Include" />
+                <e p="BuildLogTreeItem.cs" t="Include" />
+              </e>
+              <e p="ExportOptimizations.cs" t="Include" />
+              <e p="ModelOptimizations" t="Include">
+                <e p="ModelOptimization.cs" t="Include" />
+                <e p="ModelTree.cs" t="Include" />
+                <e p="ModelTreeItem.cs" t="Include" />
+              </e>
+              <e p="TextureOptimizations" t="Include">
+                <e p="TextureOptimization.cs" t="Include" />
+                <e p="TextureTree.cs" t="Include" />
+                <e p="TextureTreeItem.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="CrazySDK" t="Include">
+          <e p="Demo" t="Include">
+            <e p="DemoAssets" t="Include">
+              <e p="Audip" t="Include" />
+              <e p="Images" t="Include" />
+              <e p="Scripts" t="Include">
+                <e p="AdModuleDemo.cs" t="Include" />
+                <e p="BannerModuleDemo.cs" t="Include" />
+                <e p="DataModuleDemo.cs" t="Include" />
+                <e p="DemoController.cs" t="Include" />
+                <e p="GameModuleDemo.cs" t="Include" />
+                <e p="MainDemoScene.cs" t="Include" />
+                <e p="PlayerPrefsAPS.cs" t="Include" />
+                <e p="UserModuleDemo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Resources" t="Include" />
+          <e p="Scripts" t="Include">
+            <e p="CrazySDK.cs" t="Include" />
+            <e p="CrazySettings.cs" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="CrazyBannerEditor.cs" t="Include" />
+            </e>
+            <e p="Modules" t="Include">
+              <e p="AdModule.cs" t="Include" />
+              <e p="BannerModule.cs" t="Include" />
+              <e p="DataModule.cs" t="Include" />
+              <e p="GameModule.cs" t="Include" />
+              <e p="UserModule.cs" t="Include" />
+            </e>
+            <e p="SiteLock" t="Include">
+              <e p="Encryption.cs" t="Include" />
+              <e p="SiteLock.cs" t="Include" />
+            </e>
+            <e p="Utils" t="Include">
+              <e p="CrazyAdPreview.cs" t="Include" />
+              <e p="CrazyBanner.cs" t="Include" />
+              <e p="Utils.cs" t="Include" />
             </e>
           </e>
         </e>
@@ -815,6 +897,7 @@
             <e p="SpinWheel" t="Include" />
           </e>
         </e>
+        <e p="Plugins" t="Include" />
         <e p="Prefabs" t="Include">
           <e p="Resources" t="Include" />
           <e p="UI" t="Include" />
@@ -837,6 +920,7 @@
             <e p="MoveEnemy.cs" t="Include" />
           </e>
           <e p="PlayerStats.cs" t="Include" />
+          <e p="RewardCrazyController.cs" t="Include" />
           <e p="SaveUpLevel.cs" t="Include" />
           <e p="SpawnerEnemy.cs" t="Include" />
           <e p="TimerInterval.cs" t="Include" />
@@ -933,6 +1017,10 @@
           <e p="_sliced" t="Include" />
           <e p="Animations" t="Include" />
           <e p="image" t="Include" />
+        </e>
+        <e p="WebGLTemplates" t="Include">
+          <e p="Crazy_2020+" t="Include" />
+          <e p="Crazy_5_6+" t="Include" />
         </e>
       </e>
       <e p="FermaDefence.sln" t="IncludeFlat" />
